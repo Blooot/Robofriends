@@ -1,1 +1,1 @@
-Robot friends are more accepting than real friends. I used this project to learn about React, es6, and with this latest update, redux!
+I used this project to learn about React, es6, and with this latest update, redux!
